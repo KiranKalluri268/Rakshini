@@ -22,8 +22,8 @@ The Rakshini project is designed to enhance safety measures by utilizing various
 
 1. **Installation**: Ensure you have Python installed. Clone the repository and install necessary dependencies.
    ```bash
-   git clone <repository-url>
-   cd women-safety-demo
+   git clone https://github.com/KiranKalluri268/Rakshini.git
+   cd rakshini
    pip install -r requirements.txt
    ```
 
